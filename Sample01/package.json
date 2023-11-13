@@ -1,0 +1,15 @@
+{
+  "name": "objectstorageforscpusingawssdkjs",
+  "version": "1.0.0",
+  "description": "Guide Object Storage for SCP using AWS SDK Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1494.0"
+  }
+}
