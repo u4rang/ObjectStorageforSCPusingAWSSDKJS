@@ -57,7 +57,7 @@ npm run build
 
 #### 실행
 ```sh
-npm dist/app.js
+node dist/app.js
 ```
 
 ### 참고자료
